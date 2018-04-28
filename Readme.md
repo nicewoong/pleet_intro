@@ -1,7 +1,7 @@
 # PLEET (플릿)
 
 
-<img src="https://github.com/nicewoong/pleet_intro/blob/master/Pleet_intro.png" alt="pleet"/>
+<img src="https://github.com/nicewoong/pleet_intro/blob/master/pleet_intro.png" alt="pleet"/>
 
 ## 프로젝트 개요
 ### 내 앞에 있는 사람이 누구인지 알려주는 `모바일 명찰`
